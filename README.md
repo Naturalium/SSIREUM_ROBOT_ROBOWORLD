@@ -1,4 +1,4 @@
 # SSIREUM_ROBOT_ROBOWORLD
 2017_ROBOWORLD_SSIREUM_RATS 활동
 
-사전 샘플링후 FSM방식을 통한 제어
+DMA를 통한 사전 샘플링후 FSM방식을 통한 제어
